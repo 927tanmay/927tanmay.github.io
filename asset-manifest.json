@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.3fb2de40.chunk.css",
-  "main.js": "/static/js/main.41633d63.chunk.js",
-  "main.js.map": "/static/js/main.41633d63.chunk.js.map",
-  "static/js/1.886cc40f.chunk.js": "/static/js/1.886cc40f.chunk.js",
-  "static/js/1.886cc40f.chunk.js.map": "/static/js/1.886cc40f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/RESUME_TANMAY_SHARMA.pdf": "/static/media/RESUME_TANMAY_SHARMA.9768816b.pdf",
-  "static/css/main.3fb2de40.chunk.css.map": "/static/css/main.3fb2de40.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f9a6f57db510344ee7b585146136be06.js": "/precache-manifest.f9a6f57db510344ee7b585146136be06.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/927tanmay.github.io/static/css/main.3fb2de40.chunk.css",
+  "main.js": "/927tanmay.github.io/static/js/main.ccebd1b0.chunk.js",
+  "main.js.map": "/927tanmay.github.io/static/js/main.ccebd1b0.chunk.js.map",
+  "static/js/1.886cc40f.chunk.js": "/927tanmay.github.io/static/js/1.886cc40f.chunk.js",
+  "static/js/1.886cc40f.chunk.js.map": "/927tanmay.github.io/static/js/1.886cc40f.chunk.js.map",
+  "runtime~main.js": "/927tanmay.github.io/static/js/runtime~main.98d809ad.js",
+  "runtime~main.js.map": "/927tanmay.github.io/static/js/runtime~main.98d809ad.js.map",
+  "static/media/RESUME_TANMAY_SHARMA.pdf": "/927tanmay.github.io/static/media/RESUME_TANMAY_SHARMA.9768816b.pdf",
+  "static/css/main.3fb2de40.chunk.css.map": "/927tanmay.github.io/static/css/main.3fb2de40.chunk.css.map",
+  "index.html": "/927tanmay.github.io/index.html",
+  "precache-manifest.29c5d2bb54da7cc0ee9682bef0033101.js": "/927tanmay.github.io/precache-manifest.29c5d2bb54da7cc0ee9682bef0033101.js",
+  "service-worker.js": "/927tanmay.github.io/service-worker.js"
 }
