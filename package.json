@@ -1,7 +1,9 @@
 {
-  "name": "portfolio",
+  "homepage": "http://927tanmay.github.io/927tanmay.github.io",
+  "name": "927tanmay.github.io",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
